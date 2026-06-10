@@ -1,6 +1,6 @@
 # Hi, I'm MoribundMurdoch 👋
 
-Accelerating the velocity of ideas. Founder of the Moribund Institute. I build open-source tools with an emphasis on (ideally) low-dependency whatnot web components, Rust software, & other code whatnot I have an affinity for like maybe HTMX.
+Accelerating the velocity of ideas. Founder of the Moribund Institute. I build open-source tools with an emphasis on (ideally) low-dependency whatnot, web components, Rust software, & other code whatnot I have an affinity for like maybe HTMX.
 
 ---
 
