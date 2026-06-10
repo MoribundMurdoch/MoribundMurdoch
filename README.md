@@ -1,6 +1,6 @@
 # Hi, I'm MoribundMurdoch 👋
 
-Accelerating the velocity of ideas. Founder of the Moribund Institute. I build open-source tools with an emphasis on low-dependency web components, native system compilation, and performant Rust utilities.
+Accelerating the velocity of ideas. Founder of the Moribund Institute. I build open-source tools with an emphasis on (ideally) low-dependency whatnot web components, Rust software, & other code whatnot I have an affinity for like maybe HTMX.
 
 ---
 
@@ -13,12 +13,9 @@ A cohesive suite dedicated to customizable, offline spaced-repetition learning f
 * **[MorFlash](https://github.com/MoribundMurdoch/MorFlash)** - Customizable desktop application for spaced repetition learning.
 * **[mflash-os-integrations](https://github.com/MoribundMurdoch/mflash-os-integrations)** - Native OS-level thumbnail generation and MIME type definitions for `.mflash`.
 
-### 🧩 Native Web Components & Themes
+### 🧩 Software to make Web Components easier & Whatnot
 Minimalist, low-footprint front-end components and modular layouts.
 * **[morblocks](https://github.com/MoribundMurdoch/morblocks)** - Standalone workbench for building, previewing, and exporting native Web UI blocks.
-* **[neocities-theme-moribund-murdoch](https://github.com/MoribundMurdoch/neocities-theme-moribund-murdoch)** - Open-source theme originally designed for Neocities.
-* **[moribund-murdoch-blogger-theme](https://github.com/MoribundMurdoch/moribund-murdoch-blogger-theme)** - Modular dark Blogger layout served via Cloudflare Pages.
-* **[moribundmurdoch.com](https://github.com/MoribundMurdoch/moribundmurdoch.com)** - PHP and web-component-driven hub for lexicography and digital projects.
 
 ### 🦀 Rust & System Utilities
 Performant, standalone native tools and command-line utilities.
@@ -29,7 +26,14 @@ Performant, standalone native tools and command-line utilities.
 ### 🌐 MediaWiki Extensions & Automation
 * **[mor_external_images_mediawiki](https://github.com/MoribundMurdoch/mor_external_images_mediawiki)** - Configurable parser tag extension for embedding whitelisted external images.
 * **[mor_mediawiki_external_image_gui_helper](https://github.com/MoribundMurdoch/mor_mediawiki_external_image_gui_helper)** - Rust/WASM browser extension companion for generating safe `<extimg>` tags.
+
+### Extensions & Software to Pair with Kdenlive 
 * **[kdenloquist](https://github.com/MoribundMurdoch/kdenloquist)** - Audio-synced talking photo animator tool built for Kdenlive pipelines.
+
+### Themes & Websites for the MoribundMurdoch Branding
+* **[neocities-theme-moribund-murdoch](https://github.com/MoribundMurdoch/neocities-theme-moribund-murdoch)** - Open-source theme originally designed for Neocities.
+* **[moribund-murdoch-blogger-theme](https://github.com/MoribundMurdoch/moribund-murdoch-blogger-theme)** - Modular dark Blogger layout served via Cloudflare Pages.
+* **[moribundmurdoch.com](https://github.com/MoribundMurdoch/moribundmurdoch.com)** - PHP and web-component-driven hub for lexicography and digital projects.
 
 ---
 
